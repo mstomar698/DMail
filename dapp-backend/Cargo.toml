@@ -1,0 +1,16 @@
+[package]
+name = "mail-dApp"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = "=1.14.4"
+borsh = "0.9.1"
+borsh-derive = "0.9.1"
+thiserror = "1.0.24"
+
+[features]
+test-bpf = []
+
+[lib]
+crate-type = ["cdylib", "lib"]
