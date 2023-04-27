@@ -39,5 +39,5 @@ yarn start
 
 >
 
-1. [Backend](https://github.com/mstomar698/mail-dApp-backend) <br>
-2. [Frontend](https://github.com/mstomar698/mail-dApp-frontend)
+1. [Backend](https://github.com/mstomar698/DMail-backend) <br>
+2. [Frontend](https://github.com/mstomar698/Dmail-frontend)
